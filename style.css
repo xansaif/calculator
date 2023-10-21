@@ -1,0 +1,39 @@
+body
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #121212;
+}
+
+button
+{
+    font-size: 25px;
+    size: 100px;
+    border-radius: 5px;
+    background-color: #c38fff;
+    color: white;
+}
+.exp
+{
+    font-size: 20px;
+    height: 50px;
+    width: 50em;
+}
+.row
+{
+    gap: 3px;   
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container
+{
+    width: 50em;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
